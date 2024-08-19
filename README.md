@@ -98,11 +98,10 @@ we have you covered. In this repository, you'll find everything you need for thi
 
 ### 1.1 - Import Data
 
-> **Note**: **Datastax Astra** is a cloud-native, fully managed database-as-a-service (DBaaS) based on Apache Cassandra. It provides a scalable, performant and highly available database solution without the operational overhead of managing Cassandra clusters. Astra supports both SQL and NoSQL APIs, and includes features like backup and restore, monitoring and alerting, and access control. It enables developers to focus on application development while the database infrastructure is managed by Datastax.
-
+> **Note**: Goodbards is great
 - `✅ 1.1.a` - STEP 1
 
-![](https://github.com/DataStax-Academy/cassandra-for-data-engineers/blob/main/images/setup-astra-1.png?raw=true)
+- 
 
 ### 1.2 Train a model
 
