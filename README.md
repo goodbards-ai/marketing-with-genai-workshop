@@ -9,7 +9,7 @@ Learn how to build an app end-to-end application with Spring ecosystem *(boot, m
 
 ## 📋 Table of content
 
-<img src="https://github.com/datastaxdevs/workshop-betterreads/blob/master/img/screenshot.png?raw=true" align="right" width="400px"/>
+<img src="https://github.com/goodbards-ai/marketing-with-genai-workshop/blob/main/img/01-assistant.png?raw=true" align="right" width="400px"/>
 
 **HOUSEKEEPING**
 - [Objectives](#objectives)
@@ -17,29 +17,24 @@ Learn how to build an app end-to-end application with Spring ecosystem *(boot, m
 - [Frequently asked questions](#frequently-asked-questions)
 - [Materials for the Session](#materials-for-the-session)
 
-[**LAB1 - NarrowAI demo**](#)
-- [1.1 - Create Astra Account](#11---create-an-astra-account)
-- [1.2 - Create Astra Token](#12---create-an-astra-token)
-- [1.3 - Open your environment](#13---open-your-environment)
-- [1.4 - Setup Astra CLI](#14---setup-astra-cli)
-- [1.5 - Create Database](#15---create-database)
-- [1.6 - Create Schema](#16---create-schema)
-- [1.7 - Load Data](#17---load-data)
+[**LAB1 - NarrowAI Demo**](#)
+- [1.1 - Import Data](#)
+- [1.2 - Train a modle](#)
+- [1.3 - Run a model](#)
 
 [**LAB2 - Generative AI Landscape**](#2-application-implementation)
-- [2.1 - Configuration](#21---configuration)
-- [2.2 - Start application and first use](#22---start-application-and-first-use)
-- [2.3 - Setup authentication for Google](#23---setup-authentication-for-google)
-- [2.4 - Setup authentication for Github](#24---setup-authentication-for-github)
-- [2.5 - Authentication with OAuth 2](#25---authentication-with-oauth2)
+- [2.1 - Connect to Goodbards](#)
+- [2.2 - Interact with GPT](#)
+- [2.3 - Interact with Gemini](#)
+- [2.4 - Image Generation with Dall-e](#)
+- [2.5 - Retrieval Augmented Generation](#)
 
-[**LAB3 - Run a Marketing campaign**](#2-application-implementation)
-- [2.1 - Configuration](#21---configuration)
-- [2.2 - Start application and first use](#22---start-application-and-first-use)
-- [2.3 - Setup authentication for Google](#23---setup-authentication-for-google)
-- [2.4 - Setup authentication for Github](#24---setup-authentication-for-github)
-- [2.5 - Authentication with OAuth 2](#25---authentication-with-oauth2)
-
+[**LAB3 - Run a Marketing campaign**](#)
+- [3.1 - Prompt Templating](#)
+- [3.2 - Content Generation](#)
+- [3.3 - Content Publication](#)
+- [2.4 - Campaign Tracking](#)
+- [2.5 - Tactics and Scheduling](#)
 
 [**Homeworks**](#homeworks)
 
