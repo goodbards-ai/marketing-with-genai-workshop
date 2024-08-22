@@ -1,11 +1,6 @@
 # Doing Marketing with GenAI Tools 📘 !
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/goodbards-ai/marketing-with-genai-workshop)
-[![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-
-> ⚠️ Difficulty: **`Beginner`, we have you covered.**
-
-Learn how to build an app end-to-end application with Spring ecosystem *(boot, mvc, security, data, test, thymeleaf)* and Apache Cassandra™.
+> ⚠️ Difficulty: **`Beginner`**, we have you covered.
 
 ## 📋 Table of content
 
@@ -14,21 +9,21 @@ Learn how to build an app end-to-end application with Spring ecosystem *(boot, m
 [**LAB1 - NarrowAI Demo**](#lab1---narrowai-demo)
 - [1.1 - Import Data](#11---import-data)
 - [1.2 - Train a model](#12-train-a-model)
-- [1.3 - Run a model](#)
+- [1.3 - Run a model](#13---run-a-model)
 
-[**LAB2 - Generative AI Landscape**](#2-application-implementation)
-- [2.1 - Connect to Goodbards](#)
-- [2.2 - Interact with GPT](#)
-- [2.3 - Interact with Gemini](#)
-- [2.4 - Image Generation with Dall-e](#)
-- [2.5 - Retrieval Augmented Generation](#)
+[**LAB2 - Generative AI Landscape**](#lab2---generative-ai-landscape)
+- [2.1 - Connect to Goodbards](#21---connect-to-goodbards)
+- [2.2 - Interact with GPT](#22---interact-with-gpt)
+- [2.3 - Interact with Gemini](#23---interact-with-gemini)
+- [2.4 - Image Generation with Dall-e](#24---image-generation-with-dall-e)
+- [2.5 - Retrieval Augmented Generation](#25---retrieval-augmented-generation)
 
-[**LAB3 - Run a Marketing campaign**](#)
-- [3.1 - Prompt Templating](#)
-- [3.2 - Content Generation](#)
-- [3.3 - Content Publication](#)
-- [3.4 - Campaign Tracking](#)
-- [3.5 - Tactics and Scheduling](#)
+[**LAB3 - Run a Marketing campaign**](#lab3---run-a-marketing-campaign)
+- [3.1 - Prompt Templating](#31---prompt-templating)
+- [3.2 - Content Generation](#32---content-generation)
+- [3.3 - Content Publication](#33---content-publication)
+- [3.4 - Campaign Tracking](#34---campaign-tracking)
+- [3.5 - Tactics and Scheduling](#35---tactics-and-scheduling)
 
 ----
 > [🏠 Back to Table of Contents](#-table-of-content)
